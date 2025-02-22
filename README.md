@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/devashis21?t=sHkcNYOLXwXpgn2N8xbPag&s=09)
+[![Twitter Follow](https://img.shields.io/twitter/follow/l?label=Follow)](https://x.com/devashis21?t=sHkcNYOLXwXpgn2N8xbPag&s=09)
 [![Linkedin: anmol](https://img.shields.io/badge/-ashish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/posts/ashishrv1/)](https://www.linkedin.com/posts/ashishrv1)
 ![GitHub followers](https://img.shields.io/github/followers/codenotfound?label=Follow&style=social)
 [![Threads](https://img.shields.io/badge/Threads-46a2f1.svg?&style=flat-square&logo=Threads&logoColor=black&blacklink=https://www.threads.net/@aashishrvhere/)](https://www.threads.net/@aashishrvhere/)
