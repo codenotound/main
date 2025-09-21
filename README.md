@@ -1,6 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ashish Rajpal Valmiki! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>SDE Intern at <a href="https://www.online.citibank.co.in//">Citi Bank
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -8,7 +7,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-ashish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/posts/ashishrv1/)](https://www.linkedin.com/posts/ashishrv1)
 ![GitHub followers](https://img.shields.io/github/followers/codenotfound?label=Follow&style=social)
 [![Threads](https://img.shields.io/badge/Threads-46a2f1.svg?&style=flat-square&logo=Threads&logoColor=black&blacklink=https://www.threads.net/@aashishrvhere/)](https://www.threads.net/@aashishrvhere/)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 
 ### 📫 Like to meet me?
 
@@ -36,8 +35,8 @@ const ashish = {
 
 **🐱 A Small Intro** 
 
-> 🎓Second Year IT Student 
- > 🏢 Worked as SDE Intern At Amozan,Lyft,Jp Morgan,Citi,Accenture
+> 🎓Third Year IT Student 
+ > 🏢 Worked as SDE Virtual Intern At Amozan,Lyft,Jp Morgan,Citi,Accenture
 > 🏆 Volunteer in the college fest 
  > 🙋‍♂️Working on my self to become a good human being 
 > 🛕 Spritually Connected to god 
